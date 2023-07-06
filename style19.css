@@ -1,0 +1,25 @@
+.w{
+color: black;
+font-family: Monotype Corsiva;
+}
+.w1{
+font-size: 20px;
+text-align: center;
+}
+.w2{
+border: 1px solid gray;
+border-radius: 13px;
+width: 321px;
+}
+a:hover{
+color: lime;
+}
+div{
+size: 120px;
+}
+table,td{
+border: 1px solid black;
+}
+body{
+	align: center;
+}
